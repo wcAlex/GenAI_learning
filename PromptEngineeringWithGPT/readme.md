@@ -13,7 +13,7 @@ conda activate llm_dev
 
 pip install --upgrade openai
 pip install python-dotenv
-pip install langchain
+pip install --upgrade langchain
 
 ```
 
